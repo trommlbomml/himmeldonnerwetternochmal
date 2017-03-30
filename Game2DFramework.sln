@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2DFramework", "Game2DFramework\Game2DFramework.csproj", "{3943E03F-8B56-41EB-87D0-F6C962C7D952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevmaniaGame", "DevmaniaGame\DevmaniaGame\DevmaniaGame.csproj", "{F5662B2C-C450-4B16-A1D3-FC166A0D314C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DevmaniaGameContent", "DevmaniaGame\DevmaniaGameContent\DevmaniaGameContent.contentproj", "{91BF72A4-3FC8-41E9-AED8-FE9DAE8BE595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3943E03F-8B56-41EB-87D0-F6C962C7D952}.Debug|x86.ActiveCfg = Debug|x86
+		{3943E03F-8B56-41EB-87D0-F6C962C7D952}.Debug|x86.Build.0 = Debug|x86
+		{3943E03F-8B56-41EB-87D0-F6C962C7D952}.Release|x86.ActiveCfg = Release|x86
+		{3943E03F-8B56-41EB-87D0-F6C962C7D952}.Release|x86.Build.0 = Release|x86
+		{F5662B2C-C450-4B16-A1D3-FC166A0D314C}.Debug|x86.ActiveCfg = Debug|x86
+		{F5662B2C-C450-4B16-A1D3-FC166A0D314C}.Debug|x86.Build.0 = Debug|x86
+		{F5662B2C-C450-4B16-A1D3-FC166A0D314C}.Release|x86.ActiveCfg = Release|x86
+		{F5662B2C-C450-4B16-A1D3-FC166A0D314C}.Release|x86.Build.0 = Release|x86
+		{91BF72A4-3FC8-41E9-AED8-FE9DAE8BE595}.Debug|x86.ActiveCfg = Debug|x86
+		{91BF72A4-3FC8-41E9-AED8-FE9DAE8BE595}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
